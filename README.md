@@ -1,6 +1,7 @@
 # Bonjour:exclamation: :fr: :soccer:
+:below: 
 ``` diff \
--! :fr: an inspiration Quote that gets updated every 20 min!- 
+-! an inspiration Quote that gets updated every 20 min!- 
 ```
-Look down at me and you see a fool; look up at me and you see a god; look straight at me and you see yourself. \
-by Charles Manson
+The hole in one's heart gets filled by others around you. Friends won't flock to someone who abandons the memory of his friends and gives up on the world just because things don't go the way he wants them to. That won't help fill the hole in your heart. And people won't help those who run away and do nothing. As long as you don't give up, there will always be salvation. \
+by Hatake Kakashi
