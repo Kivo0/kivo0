@@ -1,2 +1,1 @@
-This is inspirational qoutes that gets updated every 5 min\
-&nbsp;Saying nothing sometimes says the most.&nbsp;by Emily Dickinson
+This is inspirational qoutes that gets updated every 5 min.&nbsp;Look down at me and you see a fool; look up at me and you see a god; look straight at me and you see yourself.&nbsp;by Charles Manson
