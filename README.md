@@ -1,6 +1,1 @@
-
-
-
-
-Unhappy is he to whom the memories of childhood bring only fear and sadness.
-by H.P. Lovecraft
+This is inspirational qoutes that gets updated every 5 min.One who forsakes truth earns eternal damnation.&nbsp;by Ali
