@@ -8,6 +8,7 @@ root = pathlib.Path(__file__).parent.resolve()
 if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
+    
     url = "https://quotes15.p.rapidapi.com/quotes/random/"
     querystring = {"language_code":"en"}
     headers = {
@@ -17,4 +18,6 @@ if __name__ == "__main__":
     res = requests.request("GET", url, headers=headers, params=querystring)
     data = res.json()
     #print(data['content'])
-    readme.open("w").write(data['content']+' by '+data['originator']['name'])
+    readme.open("w").write('\n'*4)
+    readme.open("a").write(data['content']+'\n'+'by '+data['originator']['name'])
+    
