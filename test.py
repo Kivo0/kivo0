@@ -18,7 +18,7 @@ if __name__ == "__main__":
     res = requests.request("GET", url, headers=headers, params=querystring)
     data = res.json()
     #print(data['content'])
-    readme.open("w").write('# Hello :bangbang: :egypt:')
-    readme.open("a").write('``` diff'+' \\'+'\n''-!This is inspirational qoutes that gets updated every 5 min!- '+'\n'+'```')
+    readme.open("w").write('# Hello :bangbang: :egypt:'+'\n')
+    readme.open("a").write('``` diff'+' \\'+'\n''-!This is inspirational qoutes that gets updated every 5 min!- '+'\n'+'```'+'\n')
     readme.open("a").write(data['content']+' \\'+'\n'+'by '+data['originator']['name'])
     
