@@ -18,6 +18,6 @@ if __name__ == "__main__":
     res = requests.request("GET", url, headers=headers, params=querystring)
     data = res.json()
     #print(data['content'])
-    readme.open("w").write("This is inspirational qoutes that gets updated every 5 min.")
+    readme.open("w").write("This is inspirational qoutes that gets updated every 5 min."+"&nbsp;")
     readme.open("a").write(data['content']+'&nbsp;'+'by '+data['originator']['name'])
     
