@@ -1,4 +1,4 @@
-This is inspirational qoutes that gets updated every 5 min. \ 
+# This is inspirational qoutes that gets updated every 5 min. \ 
     
-Your naked body should only belong to those who fall in love with your naked soul. \ 
-by Charlie Chaplin
+###Politics is a great art. It succeeds at convincing the people that they have to pay for what has been stolen from them. \
+by Andrzej Majewski
