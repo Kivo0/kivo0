@@ -1,12 +1,12 @@
 import pathlib
 import re
 import os
-import request
+import requests
 
 root = pathlib.Path(__file__).parent.resolve()
 
 if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
-    
-    readme.open("w").write('hii')
+    r = requests.get('https://quotes.rest/quote/random?language=en&limit=1')
+    readme.open("w").write(r)
