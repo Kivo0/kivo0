@@ -1,6 +1,1 @@
-{
-    "error": {
-        "code": 401,
-        "message": "Unauthorized"
-    }
-}
+Our imagination is struck only by what is great; but the lover of natural philosophy should reflect equally on little things. by Alexander von Humboldt
