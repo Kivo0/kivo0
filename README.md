@@ -1,6 +1,6 @@
 # Bonjour:exclamation: :fr: :soccer:
 ``` diff \
--!This is inspirational qoutes that gets updated every 5 min!- 
+-! :fr: an inspiration Quote that gets updated every 20 min!- 
 ```
-A single death is a tragedy; a million deaths is a statistic. \
-by Joseph Stalin
+Look down at me and you see a fool; look up at me and you see a god; look straight at me and you see yourself. \
+by Charles Manson
