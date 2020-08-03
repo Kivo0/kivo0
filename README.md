@@ -2,5 +2,5 @@
 ``` diff \
 -!A random inspirational quote every 20 min!- 
 ```
-Only those who will risk going too far can possibly find out how far one can go. \
-by T.S. Eliot
+My daughter was asked by a little old lady in a London hotel restaurant what her daddy did. She answered, “He’s a pirate” - I was very proud of that answer. \
+by Johnny Depp
