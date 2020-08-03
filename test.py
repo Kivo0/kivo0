@@ -19,6 +19,6 @@ if __name__ == "__main__":
     data = res.json()
     #print(data['content'])
     readme.open("w").write('# Bonjour:exclamation: :fr: :soccer:'+'\n')
-    readme.open("a").write(':below: \n'+'``` diff'+' \\'+'\n''-! an inspiration Quote that gets updated every 20 min!- '+'\n'+'```'+'\n')
+    readme.open("a").write(':arrow_down: '+'``` diff'+' \\'+'\n''-! an inspiration Quote that gets updated every 20 min!- '+'\n'+'```'+'\n')
     readme.open("a").write(data['content']+' \\'+'\n'+'by '+data['originator']['name'])
     
