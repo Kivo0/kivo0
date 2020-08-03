@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
     schedule:
-    - cron:  '5 * * * *'
+    - cron:  '15 * * * *'
 
 jobs:
   build:
@@ -23,6 +23,5 @@ jobs:
     # You can test your matrix by printing the current Python version
     - name: Display Python version
       run: python -c "import sys; print(sys.version)"
-      run: |-
-         python test.py
-         cat README.md
+        python test.py
+        cat README.md
