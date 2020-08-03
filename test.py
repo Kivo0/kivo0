@@ -20,5 +20,6 @@ if __name__ == "__main__":
     #print(data['content'])
     readme.open("w").write("""This is inspirational qoutes that gets updated every 5 min.\"""+""" 
     """)
-    readme.open("a").write(data['content']+"""  \"""+'by '+data['originator']['name'])
+    readme.open("a").write(data['content']+"""  
+                           """+'by '+data['originator']['name'])
     
