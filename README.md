@@ -1,4 +1,6 @@
-# Hello :bangbang: :egypt:``` diff \
+# Hello :bangbang: :egypt:
+``` diff \
 -!This is inspirational qoutes that gets updated every 5 min!- 
-```You are the universe. expressing itself as a human for a little while. \
-by Eckhart Tolle
+```
+When You've lost it all…. that's when you realize that Life is Beautiful. \
+by Nikki Sixx
