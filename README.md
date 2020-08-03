@@ -1,5 +1,3 @@
 This is inspirational qoutes that gets updated every 5 min. \
-I always like walking in the rain, so no one can see me crying.”
-―Charles Chaplin \
-by Charlie Chaplin
-<font color="green"> Some green text </font>
+When I'm gone, people will no doubt remember me for Queen, but I would much rather be remembered for attempting to change the way we treat our fellow creatures. \
+by Brian May
