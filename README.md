@@ -1,5 +1,2 @@
-This is inspirational qoutes that gets updated every 5 min. \ 
-
-People think of life as being so sacred and they feel like this is their only chance and they have to do something with their life and make an impact As far as I'm concerned, it's just a pitstop for the afterlife. It's just a little test to see how you can handle reality. \
-
-by Kurt Cobain
+This is inspirational qoutes that gets updated every 5 min.\ 
+    Why do they always show Christ up there bleeding and dying on the cross? We don't remember John Lennon lying there with a bullet hole in his head. I'm against the arbitrary organization of 'God' as a concept. We should all experience it all individually and purely. I don't agree with the separation of God and the body, I don't believe that we aren't a part of 'it', I don't agree that it's a man. In most religions there's no place for women. There aren't any women in the Holy Trinity and I need that. I love women, I came from a woman.\by Jeff Buckley
