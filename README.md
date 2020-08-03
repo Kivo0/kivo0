@@ -1,6 +1,6 @@
-# Hello :bangbang: :egypt:
+# Bonjour:exclamation: :fr: :soccer:
 ``` diff \
 -!This is inspirational qoutes that gets updated every 5 min!- 
 ```
-When You've lost it all…. that's when you realize that Life is Beautiful. \
-by Nikki Sixx
+A single death is a tragedy; a million deaths is a statistic. \
+by Joseph Stalin
