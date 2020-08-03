@@ -1,1 +1,6 @@
-Our imagination is struck only by what is great; but the lover of natural philosophy should reflect equally on little things. by Alexander von Humboldt
+
+
+
+
+Unhappy is he to whom the memories of childhood bring only fear and sadness.
+by H.P. Lovecraft
