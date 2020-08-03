@@ -1,1 +1,2 @@
-This is inspirational qoutes that gets updated every 5 min.&nbsp;Look down at me and you see a fool; look up at me and you see a god; look straight at me and you see yourself.&nbsp;by Charles Manson
+This is inspirational qoutes that gets updated every 5 min. 
+    Its hard to be a diamond in a rhinestone world.  by Dolly Parton
