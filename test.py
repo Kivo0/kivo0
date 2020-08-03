@@ -1,8 +1,6 @@
 import pathlib
 import re
 import os
-import bs4
-from bs4 import BeautifulSoup
 import requests
 
 root = pathlib.Path(__file__).parent.resolve()
