@@ -1,6 +1,6 @@
 # Bonjour:exclamation: :fr: :soccer:
 ``` diff \
--!A random inspirational quote every 20 min!- 
+-!A NeW inspirational quote every day!- 
 ```
-Conscience is a Jewish invention. \
-by Adolf Hitler
+I did not wanted to become the victim, so became the bully. \
+by Tupac Shakur
