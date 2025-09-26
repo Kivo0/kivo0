@@ -1,4 +1,4 @@
-# Bonjour:exclamation: :fr: :soccer:
+# Bonjour! 
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
