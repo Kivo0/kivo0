@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Don't live to fight, fight to live. \
-by Tupac Shakur
+You can only grow if you're willing to feel awkward and uncomfortable when you try something new. \
+by Brian Tracy
