@@ -1,6 +1,6 @@
-# Bonjour! 
+# Bonjour:exclamation: :fr: :soccer:
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-You can only grow if you're willing to feel awkward and uncomfortable when you try something new. \
-by Brian Tracy
+Good friends, good books, and a sleepy conscience: this is the ideal life. \
+by Mark Twain
