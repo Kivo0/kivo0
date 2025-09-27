@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Good friends, good books, and a sleepy conscience: this is the ideal life. \
-by Mark Twain
+Painting is poetry which is seen and not heard, and poetry is a painting which is heard but not seen. \
+by Leonardo Da Vinci
