@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Confidence is what you have before you understand the problem. \
-by Woody Allen
+Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance. \
+by Thomas Carlyle
