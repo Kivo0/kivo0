@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance. \
-by Thomas Carlyle
+Woman is not born: she is made. In the making, her humanity is destroyed. She becomes symbol of this, symbol of that: mother of the earth, slut of the universe; but she never becomes herself because it is forbidden for her to do so. \
+by Andrea Dworkin
