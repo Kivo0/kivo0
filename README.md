@@ -2,5 +2,7 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-My own soul is my most faithful friend. My own heart, my truest confidant. \
-by Babur
+Where are you? Here
+What time is it? Now
+What are you? This moment. \
+by Dan Millman
