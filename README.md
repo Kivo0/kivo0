@@ -2,7 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Where are you? Here
-What time is it? Now
-What are you? This moment. \
-by Dan Millman
+The way we communicate with others and with ourselves ultimately determines the quality of our lives. \
+by Anthony Robbins
