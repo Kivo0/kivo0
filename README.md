@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The way we communicate with others and with ourselves ultimately determines the quality of our lives. \
-by Anthony Robbins
+One of the advantages of being disorderly is that one is constantly making exciting discoveries. \
+by A.A. Milne
