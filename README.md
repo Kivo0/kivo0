@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The eye… the point where a person's identity is concentrated. \
-by Milan Kundera
+Swim upstream. Go the other way. Ignore the conventional wisdom. \
+by Sam Walton
