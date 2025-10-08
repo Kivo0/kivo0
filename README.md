@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Swim upstream. Go the other way. Ignore the conventional wisdom. \
-by Sam Walton
+What is a friend? A single soul dwelling in two bodies. \
+by Aristotle
