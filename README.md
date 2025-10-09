@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-What is a friend? A single soul dwelling in two bodies. \
-by Aristotle
+He that respects himself is safe from others; he wears a coat of mail that none can pierce. \
+by Henry Wadsworth Longfellow
