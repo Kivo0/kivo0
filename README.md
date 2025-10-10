@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-He that respects himself is safe from others; he wears a coat of mail that none can pierce. \
-by Henry Wadsworth Longfellow
+In any moment of decision the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing. \
+by Theodore Roosevelt
