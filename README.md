@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-A long habit of not thinking a thing wrong gives it a superficial appearance of being right. \
-by Thomas Paine
+Strength does not come from physical capacity. It comes from an indomitable will. \
+by Mahatma Gandhi
