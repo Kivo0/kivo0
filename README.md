@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Difficulty is what wakes up the genius \
-by Nassim Nicholas Taleb
+We cannot solve our problems with the same thinking we used when we created them. \
+by Albert Einstein
