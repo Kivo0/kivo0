@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-We cannot solve our problems with the same thinking we used when we created them. \
-by Albert Einstein
+It is easier to forgive an Enemy than to forgive a Friend. \
+by William Blake
