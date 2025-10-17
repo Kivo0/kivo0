@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-It is easier to forgive an Enemy than to forgive a Friend. \
-by William Blake
+God will not look you over for medals, degrees or diplomas but for scars. \
+by Elbert Hubbard
