@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-God will not look you over for medals, degrees or diplomas but for scars. \
-by Elbert Hubbard
+I try to find challenges after every competition and overcome them the next time. \
+by Yuzuru Hanyu
