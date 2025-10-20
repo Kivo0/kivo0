@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-When you have something to say, silence is a lie. \
-by Jordan Peterson
+Idleness, like kisses, to be sweet must be stolen. \
+by Jerome K. Jerome
