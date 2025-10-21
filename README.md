@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Idleness, like kisses, to be sweet must be stolen. \
-by Jerome K. Jerome
+It may have been in pieces, but I gave you the best of me. \
+by Jim Morrison
