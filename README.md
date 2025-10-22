@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-It may have been in pieces, but I gave you the best of me. \
-by Jim Morrison
+Being entirely honest with oneself is a good exercise. \
+by Sigmund Freud
