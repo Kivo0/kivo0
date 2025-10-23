@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Being entirely honest with oneself is a good exercise. \
-by Sigmund Freud
+Life is a succession of lessons which must be lived to be understood. \
+by Ralph Waldo Emerson
