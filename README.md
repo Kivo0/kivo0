@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Life is a succession of lessons which must be lived to be understood. \
-by Ralph Waldo Emerson
+To live is the rarest thing in the world. Most people exist, that is all. \
+by Oscar Wilde
