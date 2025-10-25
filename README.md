@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-To live is the rarest thing in the world. Most people exist, that is all. \
-by Oscar Wilde
+You're not obligated to win. You're obligated to keep trying to do the best you can every day. \
+by Marian Wright Edelman
