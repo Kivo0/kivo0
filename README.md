@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-There are only three options in dealing with people: it will either be slavery, tyranny, or negotiation. \
-by Jordan Peterson
+No man burdens his mind with small matters unless he has some very good reason for doing so. \
+by Arthur Conan Doyle
