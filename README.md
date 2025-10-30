@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Without the library, you have no civilization. \
-by Ray Bradbury
+What a terrible era in which idiots govern the blind. \
+by William Shakespeare
