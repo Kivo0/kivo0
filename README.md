@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-What a terrible era in which idiots govern the blind. \
-by William Shakespeare
+Live simply, love generously, care deeply, speak kindly, leave the rest to God. \
+by Ronald Reagan
