@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Live simply, love generously, care deeply, speak kindly, leave the rest to God. \
-by Ronald Reagan
+Nature is an infinite sphere whose center is everywhere and whose circumference is nowhere. \
+by Blaise Pascal
