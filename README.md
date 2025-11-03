@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Nature is an infinite sphere whose center is everywhere and whose circumference is nowhere. \
-by Blaise Pascal
+The tragedy of a thoughtless man is not that he doesn't think, but that he thinks that he's thinking. \
+by Andrzej Majewski
