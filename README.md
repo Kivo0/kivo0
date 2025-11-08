@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-He that is giddy thinks the world turns round. \
-by William Shakespeare
+You begin saving the world by saving one man at a time; all else is grandiose romanticism or politics. \
+by Charles Bukowski
