@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-You begin saving the world by saving one man at a time; all else is grandiose romanticism or politics. \
-by Charles Bukowski
+Though this be madness, yet there is method in't. \
+by William Shakespeare
