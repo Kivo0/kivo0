@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Though this be madness, yet there is method in't. \
-by William Shakespeare
+No matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful. \
+by Eleanor Roosevelt
