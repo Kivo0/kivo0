@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-No matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful. \
-by Eleanor Roosevelt
+(on Ashley Tisdale) "You don't need a prince to be a princess." \
+by Zayn Malik
