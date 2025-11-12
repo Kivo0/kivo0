@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-(on Ashley Tisdale) "You don't need a prince to be a princess." \
-by Zayn Malik
+Without leaps of imagination or dreaming, we lose the excitement of possibilities. Dreaming, after all is a form of planning. \
+by Gloria Steinem
