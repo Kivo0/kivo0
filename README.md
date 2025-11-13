@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Without leaps of imagination or dreaming, we lose the excitement of possibilities. Dreaming, after all is a form of planning. \
-by Gloria Steinem
+Each man is master of his own death, and all that we can do when the time comes is to help him die without fear of pain. \
+by Gabriel García Márquez
