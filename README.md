@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Trust is the glue that holds everything together. \
-by Stephen R. Covey
+Hatred is like a Hydra - the more heads one chops off, the stronger it grows. \
+by Andrzej Majewski
