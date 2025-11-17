@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Everything we are is at every moment alive in us. \
-by Arthur Miller
+Saying nothing sometimes says the most. \
+by Emily Dickinson
