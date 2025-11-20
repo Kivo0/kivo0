@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain. \
-by Plato
+Whatever you believe with feeling becomes your reality. \
+by Brian Tracy
