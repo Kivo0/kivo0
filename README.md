@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Whatever you believe with feeling becomes your reality. \
-by Brian Tracy
+Pleasure of love lasts but a moment, Pain of love lasts a lifetime. \
+by Bette Davis
