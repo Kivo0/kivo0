@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Tough times never last, but tough people do.  \
-by Robert H. Schuller
+I am a hard person to love but when I love, I love really hard. \
+by Tupac Shakur
