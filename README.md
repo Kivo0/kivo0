@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I am a hard person to love but when I love, I love really hard. \
-by Tupac Shakur
+I play the notes as they are written, but it is God who makes the music. \
+by Johann Sebastian Bach
