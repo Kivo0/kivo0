@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I play the notes as they are written, but it is God who makes the music. \
-by Johann Sebastian Bach
+Begin at once to live and count each separate day as a separate life. \
+by Seneca the Younger
