@@ -2,5 +2,6 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Begin at once to live and count each separate day as a separate life. \
-by Seneca the Younger
+I love you as certain dark things are to be loved,
+in secret, between the shadow and the soul. \
+by Pablo Neruda
