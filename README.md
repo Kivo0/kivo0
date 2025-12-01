@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Take a lover who looks at you like maybe you are magic. \
-by Frida Kahlo
+A thought, even a possibility, can shatter and transform us. \
+by Friedrich Nietzsche
