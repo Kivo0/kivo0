@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-A thought, even a possibility, can shatter and transform us. \
-by Friedrich Nietzsche
+A true friend is someone who is there for you when he'd rather be anywhere else. \
+by Len Wein
