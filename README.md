@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-A true friend is someone who is there for you when he'd rather be anywhere else. \
-by Len Wein
+I am too fond of reading books to care to write them. \
+by Oscar Wilde
