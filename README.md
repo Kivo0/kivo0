@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I am too fond of reading books to care to write them. \
-by Oscar Wilde
+Worry does not empty tomorrow of its sorrow, it empties today of its strength. \
+by Corrie ten Boom
