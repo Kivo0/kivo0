@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Worry does not empty tomorrow of its sorrow, it empties today of its strength. \
-by Corrie ten Boom
+The fact that you can impose democracy on other nations is already an undemocratic approach. \
+by Mwanandeke Kindembo
