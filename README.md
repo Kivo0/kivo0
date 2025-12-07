@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Who looks outside, dreams; who looks inside, awakes. \
-by C.G. Jung
+Do not swear by the moon, for she changes constantly. then your love would also change. \
+by William Shakespeare
