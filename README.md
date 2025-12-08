@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Do not swear by the moon, for she changes constantly. then your love would also change. \
-by William Shakespeare
+Everything will be okay in the end. If it's not okay, it's not the end. \
+by John Lennon
