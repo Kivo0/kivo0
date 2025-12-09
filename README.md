@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Everything will be okay in the end. If it's not okay, it's not the end. \
-by John Lennon
+Anticipate the difficult by managing the easy. \
+by Laozi
