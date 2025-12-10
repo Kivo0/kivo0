@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Anticipate the difficult by managing the easy. \
-by Laozi
+Time stays long enough for anyone who will use it. \
+by Leonardo Da Vinci
