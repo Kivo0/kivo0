@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Time stays long enough for anyone who will use it. \
-by Leonardo Da Vinci
+The weak are more likely to make the strong weak than the strong are likely to make the weak strong. \
+by Marlene Dietrich
