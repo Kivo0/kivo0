@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Those who deny freedom to others, deserve it not for themselves. \
-by Abraham Lincoln
+Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship? \
+by Tenzin Gyatso
