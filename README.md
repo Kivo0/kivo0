@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship? \
-by Tenzin Gyatso
+Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them. \
+by William Shakespeare
