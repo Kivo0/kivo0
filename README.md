@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them. \
-by William Shakespeare
+Spring is the time of plans and projects. \
+by Leo Tolstoy
