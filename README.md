@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Spring is the time of plans and projects. \
-by Leo Tolstoy
+Happy people are ignoramuses and glory is nothing else but success, and to achieve it one only has to be cunning. \
+by Mikhail Lermontov
