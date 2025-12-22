@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Most enjoyable activities are not natural; they demand an effort that initially one is reluctant to make. But once the interaction starts to provide feedback to the person's skills, it usually begins to be intrinsically rewarding. \
-by Mihaly Csikszentmihalyi
+There are all kinds of love in this world but never the same love twice. \
+by F. Scott Fitzgerald
