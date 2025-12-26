@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-We all are men, in our own natures frail, and capable of our flesh; few are angels. \
-by William Shakespeare
+Imagination is not only the uniquely human capacity to envision that which is not, and therefore the fount of all invention and innovation. In its arguably most transformative and revelatory capacity, it is the power that enables us to empathise with humans whose experiences we have never shared. \
+by Joanne K. Rowling
