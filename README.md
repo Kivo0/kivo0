@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Whenever you want to achieve something, keep your eyes open, concentrate and make sure you know exactly what it is you want. No one can hit their target with their eyes closed. \
-by Paulo Coelho
+I believe in love at first sight. You want that connection, and then you want some problems. \
+by Keanu Reeves
