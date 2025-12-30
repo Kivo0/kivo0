@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-There are no more worlds to conquer! \
-by Alexander the Great
+Equality may be a right, but no power on earth can convert it into fact. \
+by Honoré de Balzac
