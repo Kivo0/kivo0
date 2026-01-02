@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Anything not worth doing is worth not doing well. \
-by Robert Fulghum
+Herb is the healing of a nation, alcohol is the destruction. \
+by Bob Marley
