@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Herb is the healing of a nation, alcohol is the destruction. \
-by Bob Marley
+Those who need leaders are not qualified to choose them. \
+by Michael Malice
