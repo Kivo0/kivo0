@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Those who need leaders are not qualified to choose them. \
-by Michael Malice
+If a man does not make new acquaintance as he advances through life, he will soon find himself left alone. A man, Sir, should keep his friendship in a constant repair. \
+by Samuel Johnson
