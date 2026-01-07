@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-A scientist in his laboratory is not a mere technician: he is also a child confronting natural phenomena that impress him as though they were fairy tales. \
-by Marie Curie
+The best way to cheer yourself is to try to cheer someone else up. \
+by Mark Twain
