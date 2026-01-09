@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I believe in intuition and inspiration. \
-by Albert Einstein
+If I had a flower for every time I thought of you, I could walk through my garden forever. \
+by Alfred, Lord Tennyson
