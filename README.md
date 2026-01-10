@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-If I had a flower for every time I thought of you, I could walk through my garden forever. \
-by Alfred, Lord Tennyson
+The purpose of life…is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. \
+by Eleanor Roosevelt
