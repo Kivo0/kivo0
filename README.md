@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The harder I work, the luckier I get. \
-by Samuel Goldwyn
+When the bird of the heart begins to sing, too often will reason stop up her ears. \
+by Hans Christian Andersen
