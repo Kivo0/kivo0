@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-When the bird of the heart begins to sing, too often will reason stop up her ears. \
-by Hans Christian Andersen
+Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. \
+by Eckhart Tolle
