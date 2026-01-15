@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. \
-by Eckhart Tolle
+Your kisses lift me higher… like the sweet song of a choir. You light my morning sky, with burning love. \
+by Elvis Presley
