@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Your kisses lift me higher… like the sweet song of a choir. You light my morning sky, with burning love. \
-by Elvis Presley
+Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip. \
+by Winston S. Churchill
