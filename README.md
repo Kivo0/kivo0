@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip. \
-by Winston S. Churchill
+A man can never have too much red wine, too many books, or too much ammunition \
+by Rudyard Kipling
