@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I became insane, with long intervals of horrible sanity. \
-by Edgar Allan Poe
+Jimi Hendrix is very important. He's my idol. \
+by Freddie Mercury
