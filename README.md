@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Jimi Hendrix is very important. He's my idol. \
-by Freddie Mercury
+The roots of education … are bitter, but the fruit is sweet. \
+by Aristotle
