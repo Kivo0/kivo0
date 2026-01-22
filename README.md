@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The roots of education … are bitter, but the fruit is sweet. \
-by Aristotle
+Genius is only gifted to the few who are ready to go beyond their comfort-zones. Those who are not satisfied only with the theoretical ideologies. \
+by Mwanandeke Kindembo
