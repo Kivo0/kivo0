@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-As if you could kill time without injuring eternity. \
-by Henry David Thoreau
+If you see me in a fight with a bear, pray for the bear. \
+by Kobe Bryant
