@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-If you see me in a fight with a bear, pray for the bear. \
-by Kobe Bryant
+Life isn't about finding yourself. Life is about creating yourself. \
+by George Bernard Shaw
