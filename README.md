@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Life isn't about finding yourself. Life is about creating yourself. \
-by George Bernard Shaw
+Who I am and who I wanna be can not connect; why? \
+by NF
