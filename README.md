@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Who I am and who I wanna be can not connect; why? \
-by NF
+Compassion and tolerance are not a sign of weakness, but a sign of strength. \
+by Tenzin Gyatso
