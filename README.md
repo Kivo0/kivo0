@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Compassion and tolerance are not a sign of weakness, but a sign of strength. \
-by Tenzin Gyatso
+Justice is to be found only in the imagination. \
+by Alfred Nobel
