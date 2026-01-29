@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Justice is to be found only in the imagination. \
-by Alfred Nobel
+All human wisdom is summed up in two words; wait and hope. \
+by Alexandre Dumas
