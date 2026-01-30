@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-All human wisdom is summed up in two words; wait and hope. \
-by Alexandre Dumas
+One's dignity may be assaulted, vandalized, cruelly mocked, but it an never be taken away unless it is surrendered. \
+by Martin Luther King, Jr.
