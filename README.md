@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-One's dignity may be assaulted, vandalized, cruelly mocked, but it an never be taken away unless it is surrendered. \
-by Martin Luther King, Jr.
+Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party. \
+by Hanya Yanagihara
