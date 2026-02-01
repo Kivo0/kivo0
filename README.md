@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party. \
-by Hanya Yanagihara
+I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do. \
+by Leonardo Da Vinci
