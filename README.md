@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-As we are liberated from our own fear, our presence automatically liberates others. \
-by Marianne Williamson
+The best way to pay for a lovely moment is to enjoy it. \
+by Richard Bach
