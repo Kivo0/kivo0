@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The best way to pay for a lovely moment is to enjoy it. \
-by Richard Bach
+Life is a traveling to the edge of knowledge, then a leap taken. \
+by D.H. Lawrence
