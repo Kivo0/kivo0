@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Life is a traveling to the edge of knowledge, then a leap taken. \
-by D.H. Lawrence
+Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering. \
+by Paulo Coelho
