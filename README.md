@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering. \
-by Paulo Coelho
+Always be a first-rate version of yourself, instead of a second-rate version of somebody else. \
+by Judy Garland
