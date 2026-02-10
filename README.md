@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Always be a first-rate version of yourself, instead of a second-rate version of somebody else. \
-by Judy Garland
+There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth. \
+by Chanakya
