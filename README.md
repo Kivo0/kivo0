@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Those who need leaders are not qualified to choose them. \
-by Michael Malice
+Friendship often ends in love, but love in friendship - never. \
+by Albert Camus
