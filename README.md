@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Friendship often ends in love, but love in friendship - never. \
-by Albert Camus
+The greatest minds are capable of the greatest vices as well as of the greatest virtues. \
+by René Descartes
