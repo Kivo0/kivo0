@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The greatest minds are capable of the greatest vices as well as of the greatest virtues. \
-by René Descartes
+We can't stop living because other people are dead. \
+by Richelle Mead
