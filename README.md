@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-We can't stop living because other people are dead. \
-by Richelle Mead
+Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements. \
+by Napoleon Hill
