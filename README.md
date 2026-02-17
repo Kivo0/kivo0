@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Kind words do not cost much. Yet they accomplish much \
-by Blaise Pascal
+Ultimately, it is the desire, not the desired, that we love. \
+by Friedrich Nietzsche
