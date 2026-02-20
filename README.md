@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder. \
-by G. K. Chesterton
+Of course I am not worried about intimidating men. The type of man who will be intimidated by me is exactly the type of man I have no interest in. \
+by Chi­ma­man­da Ngo­zi Adi­chie
