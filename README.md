@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Of course I am not worried about intimidating men. The type of man who will be intimidated by me is exactly the type of man I have no interest in. \
-by Chi­ma­man­da Ngo­zi Adi­chie
+There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded. \
+by Mark Twain
