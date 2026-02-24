@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-A clear conscience is the sure sign of a bad memory. \
-by Mark Twain
+A prude is a person who thinks that his own rules of propriety are natural laws. \
+by Robert A. Heinlein
