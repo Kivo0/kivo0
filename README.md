@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-A prude is a person who thinks that his own rules of propriety are natural laws. \
-by Robert A. Heinlein
+Kites rise highest against the wind, not with it. \
+by Winston S. Churchill
