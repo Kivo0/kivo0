@@ -2,5 +2,9 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Kites rise highest against the wind, not with it. \
-by Winston S. Churchill
+Our lives are like the wind… or like sounds.
+
+We come into being, resonate with each other…
+
+Then fade away \
+by Hayao Miyazaki
