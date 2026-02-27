@@ -2,9 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Our lives are like the wind… or like sounds.
-
-We come into being, resonate with each other…
-
-Then fade away \
-by Hayao Miyazaki
+Our chief want in life, is somebody who shall make us do what we can. \
+by Ralph Waldo Emerson
