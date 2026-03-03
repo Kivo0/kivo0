@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-When I fall in love, it will be forever. \
-by Jane Austen
+Me, I’m dishonest, and you can always trust a dishonest man to be dishonest. Honestly, it’s the honest ones you have to watch out for. \
+by Johnny Depp
