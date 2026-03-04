@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Me, I’m dishonest, and you can always trust a dishonest man to be dishonest. Honestly, it’s the honest ones you have to watch out for. \
-by Johnny Depp
+For every book you buy, you should buy the time to read it. \
+by Karl Lagerfeld
