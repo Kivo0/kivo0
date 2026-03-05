@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-For every book you buy, you should buy the time to read it. \
-by Karl Lagerfeld
+The only real failure in life is not to be true to the best one knows. \
+by Gautama Buddha
