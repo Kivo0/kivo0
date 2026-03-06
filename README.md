@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The only real failure in life is not to be true to the best one knows. \
-by Gautama Buddha
+Do you ever wait for the longest day of the year and then miss it? I always wait for the longest day of the year and then miss it! \
+by F. Scott Fitzgerald
