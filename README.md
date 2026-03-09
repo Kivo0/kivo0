@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The shoe that fits one person pinches another; there is no recipe for living that suits all cases. \
-by C.G. Jung
+How can you say young girls don't get it? They're our future. Our future doctors, lawyers, mothers, presidents, they kind of keep the world going. \
+by Harry Styles
