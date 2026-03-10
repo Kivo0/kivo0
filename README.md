@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-How can you say young girls don't get it? They're our future. Our future doctors, lawyers, mothers, presidents, they kind of keep the world going. \
-by Harry Styles
+Listen, smile, agree, and then do whatever the fuck you were gonna do anyway \
+by Robert Downey Jr.
