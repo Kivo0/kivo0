@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Listen, smile, agree, and then do whatever the fuck you were gonna do anyway \
-by Robert Downey Jr.
+Sooner or later, those who win are those who think they can. \
+by Richard Bach
