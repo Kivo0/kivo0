@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Sooner or later, those who win are those who think they can. \
-by Richard Bach
+What makes the desert beautiful is that it hides, somewhere, a well. \
+by Antoine de Saint-Exupéry
