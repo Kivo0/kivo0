@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-What makes the desert beautiful is that it hides, somewhere, a well. \
-by Antoine de Saint-Exupéry
+Talent wins games, but teamwork and intelligence wins championships. \
+by Michael Jordan
