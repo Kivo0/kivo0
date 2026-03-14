@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Talent wins games, but teamwork and intelligence wins championships. \
-by Michael Jordan
+Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation. \
+by Paul Theroux
