@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation. \
-by Paul Theroux
+There are many humorous things in the world; among them, the white man's notion that he is less savage than the other savages. \
+by Mark Twain
