@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Never confuse movement with action. \
-by Ernest Hemingway
+That's what this country needs -- more books! \
+by Christopher Morley
