@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-That's what this country needs -- more books! \
-by Christopher Morley
+When I fall in love, it will be forever. \
+by Jane Austen
