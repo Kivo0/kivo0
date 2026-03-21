@@ -2,7 +2,7 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Only God Can Judge Me
-That which does not kill me can only make me stronger. I don't see why everybody feel as though that they gotta tell me how to live my
-life \
-by Tupac Shakur
+I hear and I forget. I see and I remember. I do and I understand.”
+
+- Chinese proverb \
+by Alvin Toffler
