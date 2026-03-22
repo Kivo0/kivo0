@@ -2,7 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I hear and I forget. I see and I remember. I do and I understand.”
-
-- Chinese proverb \
-by Alvin Toffler
+If you can't explain it simply, you don't understand it well enough. \
+by Albert Einstein
