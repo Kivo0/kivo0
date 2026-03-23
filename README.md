@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-If you can't explain it simply, you don't understand it well enough. \
-by Albert Einstein
+I'm no prophet. My job is making windows where there were once walls. \
+by Michel Foucault
