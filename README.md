@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I'm no prophet. My job is making windows where there were once walls. \
-by Michel Foucault
+Do not judge according to appearance, but judge with righteous judgment. \
+by Jesus
