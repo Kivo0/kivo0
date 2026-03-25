@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Do not judge according to appearance, but judge with righteous judgment. \
-by Jesus
+Its hard to be a diamond in a rhinestone world. \
+by Dolly Parton
