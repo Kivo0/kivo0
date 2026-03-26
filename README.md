@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Its hard to be a diamond in a rhinestone world. \
-by Dolly Parton
+Discipline is the bridge between goals and accomplishment. \
+by Jim Rohn
