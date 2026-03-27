@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Discipline is the bridge between goals and accomplishment. \
-by Jim Rohn
+Ignorance never settles a question. \
+by Benjamin Disraeli
