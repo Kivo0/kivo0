@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Ignorance never settles a question. \
-by Benjamin Disraeli
+You can't choose up sides on a round world. \
+by Wayne W. Dyer
