@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Love is rarer than genius itself. And friendship is rarer than love. \
-by Charles Péguy
+Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven. \
+by Laozi
