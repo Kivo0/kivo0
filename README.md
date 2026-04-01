@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Nothing is softer or more flexible than water, yet nothing can resist it. \
-by Laozi
+Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it. \
+by Johann Wolfgang von Goethe
