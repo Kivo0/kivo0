@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it. \
-by Johann Wolfgang von Goethe
+Perhaps one did not want to be loved so much as to be understood. \
+by George Orwell
