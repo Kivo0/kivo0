@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Perhaps one did not want to be loved so much as to be understood. \
-by George Orwell
+History doesn't repeat itself, but it does rhyme. \
+by Mark Twain
