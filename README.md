@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-There was a time when I was not sure, if I was a victim of the disaster or a skater, but I feel maybe I am neither of them. I haven't reached a definite answer, but as a skater, I feel so much support from so many people. \
-by Yuzuru Hanyu
+Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up. \
+by James Baldwin
