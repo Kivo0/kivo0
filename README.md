@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up. \
-by James Baldwin
+Writing well was almost the same as thinking well, and thinking well was the next thing to acting well. \
+by Thomas Mann
