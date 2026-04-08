@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Three grand essentials to happiness in this life are something to do, something to love, and something to hope for. \
-by Джордж Вашингтон Бернап
+A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune. \
+by Horace
