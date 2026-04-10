@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The world was my oyster but I used the wrong fork. \
-by Oscar Wilde
+In every walk with nature one receives far more than he seeks. \
+by John Muir
