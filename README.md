@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-In every walk with nature one receives far more than he seeks. \
-by John Muir
+This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature. - Murray (WN 285) \
+by Don DeLillo
