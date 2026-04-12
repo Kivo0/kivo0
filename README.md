@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature. - Murray (WN 285) \
-by Don DeLillo
+What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people. \
+by Daisaku Ikeda
