@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Only the educated are free. \
-by Epictetus
+It is only when the mind and character slumber that the dress can be seen. \
+by Ralph Waldo Emerson
