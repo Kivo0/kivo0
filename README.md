@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-It is only when the mind and character slumber that the dress can be seen. \
-by Ralph Waldo Emerson
+You don't love someone for their looks, or their clothes, or for their fancy car, but because they sing a song only you can hear. \
+by Oscar Wilde
