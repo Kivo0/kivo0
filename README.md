@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-You'll see it when you believe it. \
-by Wayne W. Dyer
+Sex is the consolation you have when you can't have love. \
+by Gabriel García Márquez
