@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Sex is the consolation you have when you can't have love. \
-by Gabriel García Márquez
+He who knows that enough is enough will always have enough. \
+by Laozi
