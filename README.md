@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-He who knows that enough is enough will always have enough. \
-by Laozi
+The thought of suicide is a great consolation: by means of it one gets through many a dark night. \
+by Friedrich Nietzsche
