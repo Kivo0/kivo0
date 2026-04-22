@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The thought of suicide is a great consolation: by means of it one gets through many a dark night. \
-by Friedrich Nietzsche
+Wherever a man turns he can find someone who needs him. \
+by Albert Schweitzer
