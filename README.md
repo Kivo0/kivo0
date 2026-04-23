@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Wherever a man turns he can find someone who needs him. \
-by Albert Schweitzer
+One must be fond of people and trust them if one is not to make a mess of life \
+by E.M. Forster
