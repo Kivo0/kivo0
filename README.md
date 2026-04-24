@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-One must be fond of people and trust them if one is not to make a mess of life \
-by E.M. Forster
+If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success. \
+by John D. Rockefeller
