@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-All that is necessary for the triumph of evil is that good men do nothing. \
-by Edmund Burke
+Nothing can be loved or hated unless it is first understood. \
+by Leonardo Da Vinci
