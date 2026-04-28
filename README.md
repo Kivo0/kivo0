@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Error is discipline through which we advance. \
-by William Ellery Channing
+We sleep peaceably in our beds at night only because rough men stand ready to do violence on our behalf. \
+by George Orwell
