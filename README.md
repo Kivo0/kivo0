@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-To live is the rarest thing in the world. Most people exist, that is all. \
-by Oscar Wilde
+It is better to travel well than to arrive. \
+by Gautama Buddha
