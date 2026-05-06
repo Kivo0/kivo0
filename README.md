@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Memory is the mother of all wisdom. \
-by Samuel Johnson
+To be tested is good. The challenged life may be the best therapist. \
+by Gail Sheehy
