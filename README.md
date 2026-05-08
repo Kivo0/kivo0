@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Those who make peaceful revolution impossible will make violent revolution inevitable. \
-by John F. Kennedy
+Debt can rob you of your future because you are using the money you earn today to pay off things from the past \
+by Andrew Lokenauth
