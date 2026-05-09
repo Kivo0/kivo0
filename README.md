@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Debt can rob you of your future because you are using the money you earn today to pay off things from the past \
-by Andrew Lokenauth
+Youth ages, immaturity is outgrown, ignorance can be educated, drunkenness sobered, but stupid lasts forever. \
+by Aristophanés
