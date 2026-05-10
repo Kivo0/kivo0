@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Youth ages, immaturity is outgrown, ignorance can be educated, drunkenness sobered, but stupid lasts forever. \
-by Aristophanés
+He who is fixed to a star does not change his mind. \
+by Leonardo Da Vinci
