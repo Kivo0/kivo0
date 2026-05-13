@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-We make up horrors to help us cope with the real ones. \
-by Stephen King
+Society attacks early, when the individual is helpless. \
+by B.F. Skinner
