@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Society attacks early, when the individual is helpless. \
-by B.F. Skinner
+I could easily forgive his pride, if he had not mortified mine. \
+by Jane Austen
