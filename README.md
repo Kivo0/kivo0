@@ -2,5 +2,30 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I could easily forgive his pride, if he had not mortified mine. \
-by Jane Austen
+there is a place in the heart that
+will never be filled
+
+a space
+
+and even during the
+best moments
+and
+the greatest times
+times
+
+we will know it
+
+we will know it
+more than
+ever
+
+there is a place in the heart that
+will never be filled
+and
+
+we will wait
+and
+wait
+
+in that space. \
+by Charles Bukowski
