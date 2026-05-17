@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Better to reign in Hell, than to serve in Heaven. \
-by John Milton
+Art washes away from the soul the dust of everyday life. \
+by Pablo Picasso
