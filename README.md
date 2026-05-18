@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Art washes away from the soul the dust of everyday life. \
-by Pablo Picasso
+Those who look for the bad in people will surely find it. \
+by Abraham Lincoln
