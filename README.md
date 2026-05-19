@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Those who look for the bad in people will surely find it. \
-by Abraham Lincoln
+In the beginning there was nothing, which exploded. \
+by Terry Pratchett
