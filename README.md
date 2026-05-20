@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-In the beginning there was nothing, which exploded. \
-by Terry Pratchett
+The superior man is satisfied and composed; the mean man is always full of distress. \
+by Confucius
