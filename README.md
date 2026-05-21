@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The superior man is satisfied and composed; the mean man is always full of distress. \
-by Confucius
+Beauty is the illumination of your soul. \
+by John O'Donohue
