@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Beauty is the illumination of your soul. \
-by John O'Donohue
+Fear is the true enemy, the only enemy. \
+by Sun Tzu
