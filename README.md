@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle. \
-by Amy Bloom
+Don’t believe what your eyes are telling you. All they show is limitation. Look with your understanding. Find out what you already know and you will see the way to fly. \
+by Richard Bach
