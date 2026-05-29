@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Don’t believe what your eyes are telling you. All they show is limitation. Look with your understanding. Find out what you already know and you will see the way to fly. \
-by Richard Bach
+Economic, social, political, environmental and population development in Thailand have created a series of problems that must be addressed addressesed by education. \
+by Sukavich Rangsitpol
