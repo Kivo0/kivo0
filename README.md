@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Economic, social, political, environmental and population development in Thailand have created a series of problems that must be addressed addressesed by education. \
-by Sukavich Rangsitpol
+Whenever you are alone, remind yourself that God has sent everyone else away so that there is only you and Him. \
+by Rumi
