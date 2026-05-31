@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Whenever you are alone, remind yourself that God has sent everyone else away so that there is only you and Him. \
-by Rumi
+It's all true that education will make you intelligent. But it can't automatically make you a good person too. \
+by Mwanandeke Kindembo
