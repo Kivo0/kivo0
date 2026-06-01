@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-It's all true that education will make you intelligent. But it can't automatically make you a good person too. \
-by Mwanandeke Kindembo
+An appeaser is one who feeds a crocodile — hoping it will eat him last. \
+by Winston S. Churchill
