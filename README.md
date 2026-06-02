@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-An appeaser is one who feeds a crocodile — hoping it will eat him last. \
-by Winston S. Churchill
+Be bad, but at least don't be a liar, a deceiver! \
+by Leo Tolstoy
