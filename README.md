@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Be bad, but at least don't be a liar, a deceiver! \
-by Leo Tolstoy
+Nothing is more real than nothing. \
+by Samuel Beckett
