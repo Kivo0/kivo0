@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-If a man insisted always on being serious, and never allowed himself a bit of fun and relaxation, he would go mad or become unstable without knowing it. \
-by Herodotus
+Life would be tragic if it weren't funny. \
+by Stephen Hawking
