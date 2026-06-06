@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Life would be tragic if it weren't funny. \
-by Stephen Hawking
+We must be willing to let go of the life we planned so as to have the life that is waiting for us. \
+by Joseph Campbell
