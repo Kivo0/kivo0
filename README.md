@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-New friends can often have a better time together than old friends. \
-by F. Scott Fitzgerald
+I gave my life to become the person I am right now. Was it worth it? \
+by Richard Bach
