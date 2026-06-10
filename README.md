@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I think, therefore I am. \
-by René Descartes
+It is better to be hated for what you are than to be loved for what you are not. \
+by André Gide
