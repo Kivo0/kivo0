@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The possibilities are numerous once we decide to act and not react. \
-by George Bernard Shaw
+All through life, be sure and put your feet in the right place, and then stand firm. \
+by Abraham Lincoln
