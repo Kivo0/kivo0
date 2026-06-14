@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-If you surrender to the wind, you can ride it. \
-by Toni Morrison
+He had the look of one who had drunk the cup of life and found a dead beetle at the bottom. \
+by P.G. Wodehouse
