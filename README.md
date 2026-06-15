@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-He had the look of one who had drunk the cup of life and found a dead beetle at the bottom. \
-by P.G. Wodehouse
+A musician must make music, an artist must paint, a poet must write, if he is to be ultimately at peace with himself. What a man can be, he must be. \
+by Abraham Maslow
