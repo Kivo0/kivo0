@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-A musician must make music, an artist must paint, a poet must write, if he is to be ultimately at peace with himself. What a man can be, he must be. \
-by Abraham Maslow
+One has to make a decision when a condition is likely to degenerate if nothing is done. \
+by Peter F. Drucker
