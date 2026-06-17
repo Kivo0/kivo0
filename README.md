@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-One has to make a decision when a condition is likely to degenerate if nothing is done. \
-by Peter F. Drucker
+Speak when you are angry and you will make the best speech you will ever regret. \
+by Ambrose Bierce
