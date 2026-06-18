@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Speak when you are angry and you will make the best speech you will ever regret. \
-by Ambrose Bierce
+I don't think anybody's necessarily ready for death. You can only hope that when it approaches, you feel like you've said what you wanted to say. Nobody wants to go out in mid-sentence. \
+by Johnny Depp
