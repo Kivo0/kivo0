@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life. \
-by Hermann Hesse
+There ain't no sin and there ain't no virtue. There's just stuff people do. \
+by John Steinbeck
