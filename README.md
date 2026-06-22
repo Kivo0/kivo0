@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The reason for my starting a diary is that I have no real friend. \
-by Anne Frank
+There are two types of poor people, those who are poor together and those who are poor alone. The first are the true poor, the others are rich people out of luck. \
+by Jean Paul Sartre
