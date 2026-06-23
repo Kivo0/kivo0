@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-There are two types of poor people, those who are poor together and those who are poor alone. The first are the true poor, the others are rich people out of luck. \
-by Jean Paul Sartre
+People never learn anything by being told, they have to find out for themselves. \
+by Paulo Coelho
