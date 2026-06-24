@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-People never learn anything by being told, they have to find out for themselves. \
-by Paulo Coelho
+Knowledge without justice ought to be called cunning rather than wisdom. \
+by Plato
