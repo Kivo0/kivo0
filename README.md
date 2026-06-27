@@ -2,5 +2,6 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Be slow in choosing a friend, slower in changing.  \
-by Benjamin Franklin
+As the thing more perfect is,
+The more it feels of pleasure and of pain. \
+by Dante Alighieri
