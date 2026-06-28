@@ -2,6 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-As the thing more perfect is,
-The more it feels of pleasure and of pain. \
-by Dante Alighieri
+I do note with interest that old women in my books become young women on the covers… this is discrimination against the chronologically gifted. \
+by Terry Pratchett
