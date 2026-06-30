@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-It all began with the three wise men, followed a star took them to Bethelehem, and made it heard throughout the land — born was the leader of man. All going down to see the Lord Jesus. \
-by Freddie Mercury
+All I required to be happy was friendship and people I could admire. \
+by Christian Dior
