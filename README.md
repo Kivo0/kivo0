@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-All I required to be happy was friendship and people I could admire. \
-by Christian Dior
+The real question is not whether life exists after death. The real question is whether you are alive before death. \
+by Rajneesh
