@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The real question is not whether life exists after death. The real question is whether you are alive before death. \
-by Rajneesh
+Only a life lived for others is a life worthwhile. \
+by Albert Einstein
