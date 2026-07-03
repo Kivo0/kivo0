@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Only a life lived for others is a life worthwhile. \
-by Albert Einstein
+Think like a wise man but communicate in the language of the people. \
+by W.B. Yeats
