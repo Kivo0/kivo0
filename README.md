@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Reviewing what you have learned and learning anew, you are fit to be a teacher. \
-by Confucius
+I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others. \
+by Marcus Aurelius
