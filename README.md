@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Love is a serious mental disease.  \
-by Plato
+Always be a first-rate version of yourself, instead of a second-rate version of somebody else. \
+by Judy Garland
