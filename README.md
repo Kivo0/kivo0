@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Always be a first-rate version of yourself, instead of a second-rate version of somebody else. \
-by Judy Garland
+Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge. \
+by Eckhart Tolle
