@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Bring me the sunset in a cup. \
-by Emily Dickinson
+Forgiveness is choosing to love. It is the first skill of self-giving love. \
+by Mahatma Gandhi
