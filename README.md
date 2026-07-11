@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Forgiveness is choosing to love. It is the first skill of self-giving love. \
-by Mahatma Gandhi
+Every form of addiction is bad, no matter whether the narcotic be alcohol, morphine or idealism. \
+by C.G. Jung
