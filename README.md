@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Be the flame, not the moth. \
-by Giacomo Casanova
+He who has imagination without learning has wings but no feet. \
+by Joseph Joubert
