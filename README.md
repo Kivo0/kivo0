@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-He who has imagination without learning has wings but no feet. \
-by Joseph Joubert
+Our only limitations are those we set up in our own minds \
+by Napoleon Hill
