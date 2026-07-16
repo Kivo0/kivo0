@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Our only limitations are those we set up in our own minds \
-by Napoleon Hill
+The greatest thing in the world is to know how to belong to oneself. \
+by Michel De Montaigne
