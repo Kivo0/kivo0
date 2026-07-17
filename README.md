@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The greatest thing in the world is to know how to belong to oneself. \
-by Michel De Montaigne
+Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility. \
+by Sigmund Freud
