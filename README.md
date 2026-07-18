@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility. \
-by Sigmund Freud
+The scientists of today think deeply instead of clearly. One must be sane to think clearly, but one can think deeply and be quite insane. \
+by Nikola Tesla
