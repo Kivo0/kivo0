@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Peace cannot be achieved through violence, it can only be attained through understanding. \
-by Ralph Waldo Emerson
+A short saying often contains much wisdom. \
+by Sophocles
