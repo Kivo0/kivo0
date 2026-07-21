@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-A short saying often contains much wisdom. \
-by Sophocles
+Man is not the sum of what he has already, but rather the sum of what he does not yet have, of what he could have. \
+by Jean Paul Sartre
