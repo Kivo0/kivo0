@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Man is not the sum of what he has already, but rather the sum of what he does not yet have, of what he could have. \
-by Jean Paul Sartre
+We cannot be sure of having something to live for unless we are willing to die for it. \
+by Ernesto Che Guevara
