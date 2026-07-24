@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Maktub" (It is written.) \
-by Paulo Coelho
+I have friends in overalls whose friendship I would not swap for the favor of the kings of the world. \
+by Thomas Edison
