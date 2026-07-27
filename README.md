@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-To be fond of dancing was a certain step towards falling in love. \
-by Jane Austen
+There are never words for the strongest of our feelings. There is just the pain that we cannot share. Pain we must all feel alone. \
+by James Frey
