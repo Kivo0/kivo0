@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The road of excess leads to the palace of wisdom. \
-by William Blake
+I have often regretted my speech, never my silence. \
+by Publilio Siro
