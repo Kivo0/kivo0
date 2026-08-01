@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Education is the ability to listen to almost anything without losing your temper or your self-confidence. \
-by Robert Frost
+True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance. \
+by Akhenaten
