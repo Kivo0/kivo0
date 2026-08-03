@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Nothing but heaven itself is better than a friend who is really a friend. \
-by Plautus
+Silence is the language of God, all else is poor translation. \
+by Rumi
