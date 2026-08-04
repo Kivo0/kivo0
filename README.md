@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Silence is the language of God, all else is poor translation. \
-by Rumi
+Chaos is found in greatest abundance wherever order is being sought. It always defeats order, because it is better organized. \
+by Terry Pratchett
