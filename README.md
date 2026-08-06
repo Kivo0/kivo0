@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Nobody likes a clown at midnight \
-by Stephen King
+Change is good only when you know yourself. \
+by Mwanandeke Kindembo
