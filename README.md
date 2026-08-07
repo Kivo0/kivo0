@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Change is good only when you know yourself. \
-by Mwanandeke Kindembo
+Sometimes letting things go is an act of far greater power than defending or hanging on. \
+by Eckhart Tolle
