@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Sometimes letting things go is an act of far greater power than defending or hanging on. \
-by Eckhart Tolle
+I love acting. It is so much more real than life. \
+by Oscar Wilde
