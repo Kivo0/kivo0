@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-And the little screaming fact that sounds through all history: repression works only to strengthen and knit the repressed. \
-by John Steinbeck
+Oh, I don’t mean you’re handsome, not the way people think of handsome. Your face seems kind. But your eyes - they’re beautiful. They’re wild, crazy, like some animal peering out of a forest on fire. \
+by Charles Bukowski
