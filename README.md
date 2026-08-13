@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-There's no coming to consciousness without pain. \
-by C.G. Jung
+It is awfully easy to be hard-boiled about everything in the daytime, but at night it is another thing. \
+by Ernest Hemingway
