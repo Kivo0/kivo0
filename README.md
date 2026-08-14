@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-It is awfully easy to be hard-boiled about everything in the daytime, but at night it is another thing. \
-by Ernest Hemingway
+Thousands of candles can be lit from a single candle, And the life of the candle will not be shortened. Happiness never decreases by being shared. \
+by Gautama Buddha
