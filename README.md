@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-We dance for laughter, we dance for tears, we dance for madness, we dance for fears, we dance for hopes, we dance for screams, we are the dancers, we create the dreams. \
-by Albert Einstein
+Love is always open arms. If you close your arms about love you will find that you are left holding only yourself. \
+by Leo Buscaglia
