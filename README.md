@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Love is always open arms. If you close your arms about love you will find that you are left holding only yourself. \
-by Leo Buscaglia
+Faith is taking the first step even when you can't see the whole staircase. \
+by Martin Luther King, Jr.
