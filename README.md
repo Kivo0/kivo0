@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I have decided to stick to love… Hate is too great a burden to bear. \
-by Martin Luther King, Jr.
+The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion. \
+by Dwight D. Eisenhower
