@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-When you're drowning you don't think, You just scream. \
-by John Lennon
+They can conquer who believe they can. \
+by Virgil
