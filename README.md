@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-They can conquer who believe they can. \
-by Virgil
+Change the way you look at things and the things you look at change. \
+by Wayne W. Dyer
