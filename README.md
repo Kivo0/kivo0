@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Change the way you look at things and the things you look at change. \
-by Wayne W. Dyer
+Follow your heart but take your brain with you. \
+by Alfred Adler
