@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Follow your heart but take your brain with you. \
-by Alfred Adler
+The language of Friendship is not words, but meanings. \
+by Henry David Thoreau
