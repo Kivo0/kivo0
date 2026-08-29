@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The language of Friendship is not words, but meanings. \
-by Henry David Thoreau
+I have the true feeling of myself only when I am unbearably unhappy. \
+by Franz Kafka
