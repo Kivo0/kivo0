@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I have the true feeling of myself only when I am unbearably unhappy. \
-by Franz Kafka
+If the world really looks like that I will paint no more! \
+by Claude Monet
