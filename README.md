@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-If the world really looks like that I will paint no more! \
-by Claude Monet
+Nights through dreams tell the myths forgotten by the day. \
+by C.G. Jung
