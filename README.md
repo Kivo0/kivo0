@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Nights through dreams tell the myths forgotten by the day. \
-by C.G. Jung
+Do it or do not do it - you will regret both. \
+by Sören Kierkegaard
