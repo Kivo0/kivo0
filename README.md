@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Do it or do not do it - you will regret both. \
-by Sören Kierkegaard
+A goal without a plan is just a wish. \
+by Antoine de Saint-Exupéry
