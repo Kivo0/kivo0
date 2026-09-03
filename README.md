@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-A goal without a plan is just a wish. \
-by Antoine de Saint-Exupéry
+My own soul is my most faithful friend. My own heart, my truest confidant. \
+by Babur
