@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-My own soul is my most faithful friend. My own heart, my truest confidant. \
-by Babur
+Beneath the makeup and behind the smile I am just a girl who wishes for the world. \
+by Marilyn Monroe
