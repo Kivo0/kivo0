@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Beneath the makeup and behind the smile I am just a girl who wishes for the world. \
-by Marilyn Monroe
+I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want. \
+by Muhammad Ali
