@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Quality is not an act, it is a habit. \
-by Aristotle
+People do not lack strength, they lack will. \
+by Victor Hugo
