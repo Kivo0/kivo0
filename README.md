@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-People do not lack strength, they lack will. \
-by Victor Hugo
+The truth you believe and cling to makes you unavailable to hear anything new. \
+by Pema Chödron
