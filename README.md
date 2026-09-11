@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The truth you believe and cling to makes you unavailable to hear anything new. \
-by Pema Chödron
+You get treated in life the way you teach people to treat you. \
+by Wayne W. Dyer
