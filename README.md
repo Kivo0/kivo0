@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-You get treated in life the way you teach people to treat you. \
-by Wayne W. Dyer
+I love you not only for what you are, but for what I am when I am with you. I love you not only for what you have made of yourself, but for what you are making of me. I love you for the part of me that you bring out. \
+by Elizabeth Barrett Browning
