@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Very little is needed to make a happy life; it is all within yourself in your way of thinking. \
-by Marcus Aurelius
+It is far better to be alone, than to be in bad company. \
+by George Washington
