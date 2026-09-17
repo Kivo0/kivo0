@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Any emotion, if it is sincere, is involuntary. \
-by Mark Twain
+Adopt the pace of nature: her secret is patience. \
+by Ralph Waldo Emerson
