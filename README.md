@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Adopt the pace of nature: her secret is patience. \
-by Ralph Waldo Emerson
+I am doing something I hate for you. This is what it means to be in love. \
+by Jonathan Safran Foer
