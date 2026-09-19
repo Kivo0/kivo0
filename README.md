@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I am doing something I hate for you. This is what it means to be in love. \
-by Jonathan Safran Foer
+In his blue gardens men and girls came and went like moths among the whisperings and the champagne and the stars. \
+by F. Scott Fitzgerald
