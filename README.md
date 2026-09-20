@@ -2,5 +2,12 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-In his blue gardens men and girls came and went like moths among the whisperings and the champagne and the stars. \
-by F. Scott Fitzgerald
+Everyone should consider his
+body as a priceless gift from
+one whom he loves above all, a
+marvelous work of art, of
+indescribable beauty, and
+mystery beyond human conception, and so delicate that
+a word, a breath, a look, nay, a
+thought may injure it. \
+by Nikola Tesla
