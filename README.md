@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Happiness is not a goal… it's a by-product of a life well lived. \
-by Eleanor Roosevelt
+Never let your personal desires and emotions outcompete your reasoning capacity. \
+by Hamis Kiggundu
