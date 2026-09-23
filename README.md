@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Never let your personal desires and emotions outcompete your reasoning capacity. \
-by Hamis Kiggundu
+I meant to write about death, only life came breaking in as usual \
+by Virginia Woolf
