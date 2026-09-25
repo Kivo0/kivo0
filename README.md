@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Scratch any cynic and you will find a disappointed idealist. \
-by George Carlin
+The trouble is, you think you have time. \
+by Jack Kornfield
