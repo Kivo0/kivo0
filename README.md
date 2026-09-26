@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The trouble is, you think you have time. \
-by Jack Kornfield
+We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy. \
+by Arthur Ashe
