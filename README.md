@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy. \
-by Arthur Ashe
+A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune. \
+by Horace
