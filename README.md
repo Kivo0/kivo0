@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Love demands infinitely less than friendship. \
-by George Jean Nathan
+They got money for wars but they can’t feed the poor.  \
+by Tupac Shakur
