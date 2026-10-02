@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-They got money for wars but they can’t feed the poor.  \
-by Tupac Shakur
+Nature is a haunted house--but Art--is a house that tries to be haunted. \
+by Emily Dickinson
