@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Any emotion, if it is sincere, is involuntary. \
-by Mark Twain
+Everyone discusses my art and pretends to understand, as if it were necessary to understand, when it is simply necessary to love. \
+by Claude Monet
