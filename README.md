@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Everyone discusses my art and pretends to understand, as if it were necessary to understand, when it is simply necessary to love. \
-by Claude Monet
+No matter who you are, no matter what you did, no matter where you've come from, you can always change, become a better version of yourself. \
+by Madonna
