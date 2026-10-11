@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-We believe in each other, that's enough for me. \
-by Freddie Mercury
+He is half of my soul, as the poets say. \
+by Madeline Miller
