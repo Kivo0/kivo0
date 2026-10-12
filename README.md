@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-He is half of my soul, as the poets say. \
-by Madeline Miller
+Do you want to know who you are? Don't ask. Act! Action will delineate and define you. \
+by Thomas Jefferson
