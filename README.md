@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Do you want to know who you are? Don't ask. Act! Action will delineate and define you. \
-by Thomas Jefferson
+But there was no need to be ashamed of tears, for tears bore witness that a man had the greatest of courage, the courage to suffer. \
+by Viktor E. Frankl
