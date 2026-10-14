@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-But there was no need to be ashamed of tears, for tears bore witness that a man had the greatest of courage, the courage to suffer. \
-by Viktor E. Frankl
+Of course I am not worried about intimidating men. The type of man who will be intimidated by me is exactly the type of man I have no interest in. \
+by Chi­ma­man­da Ngo­zi Adi­chie
