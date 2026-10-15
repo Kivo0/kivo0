@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Of course I am not worried about intimidating men. The type of man who will be intimidated by me is exactly the type of man I have no interest in. \
-by Chi­ma­man­da Ngo­zi Adi­chie
+Sanity is a small box; insanity is everything. \
+by Charles Manson
