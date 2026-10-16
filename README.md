@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Sanity is a small box; insanity is everything. \
-by Charles Manson
+We who think we are about to die will laugh at anything. \
+by Terry Pratchett
