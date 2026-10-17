@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-We who think we are about to die will laugh at anything. \
-by Terry Pratchett
+Love is all right for those who can handle the psychic overload. It's like trying to carry a full garbage can on your back over a rushing river of piss. \
+by Charles Bukowski
