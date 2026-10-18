@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Love is all right for those who can handle the psychic overload. It's like trying to carry a full garbage can on your back over a rushing river of piss. \
-by Charles Bukowski
+I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime. \
+by Elisabeth Kübler-Ross
