@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime. \
-by Elisabeth Kübler-Ross
+I can write the saddest poem of all tonight. I loved her, and sometimes she loved me too. \
+by Pablo Neruda
