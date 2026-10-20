@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I can write the saddest poem of all tonight. I loved her, and sometimes she loved me too. \
-by Pablo Neruda
+Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious. \
+by Thomas Aquinas
