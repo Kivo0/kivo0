@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious. \
-by Thomas Aquinas
+All human wisdom is summed up in two words; wait and hope. \
+by Alexandre Dumas
