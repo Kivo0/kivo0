@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-All great literature is one of two stories; a man goes on a journey or a stranger comes to town. \
-by Leo Tolstoy
+The reason I talk to myself is because I’m the only one whose answers I accept. \
+by George Carlin
