@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The reason I talk to myself is because I’m the only one whose answers I accept. \
-by George Carlin
+Happiness often sneaks in through a door you didn't know you left open. \
+by John Barrymore
