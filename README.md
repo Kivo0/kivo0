@@ -2,6 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Efforts will lie, but they will not be in vain.
-Common variation: Effort may lie, but will never be in vain. \
-by Yuzuru Hanyu
+By giving full attention to one thing at a time, we can learn to direct attention where we choose. \
+by Eknath Easwaran
