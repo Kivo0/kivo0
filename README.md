@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-By giving full attention to one thing at a time, we can learn to direct attention where we choose. \
-by Eknath Easwaran
+Love is flower like; Friendship is like a sheltering tree. \
+by Samuel Taylor Coleridge
