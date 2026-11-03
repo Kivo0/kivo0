@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Love is flower like; Friendship is like a sheltering tree. \
-by Samuel Taylor Coleridge
+To me, the thing that is worse than death is betrayal. You see, I could conceive death, but I could not conceive betrayal. \
+by Malcolm X
