@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-To me, the thing that is worse than death is betrayal. You see, I could conceive death, but I could not conceive betrayal. \
-by Malcolm X
+A dog reflects the family life. Whoever saw a frisky dog in a gloomy family, or a sad dog in a happy one? Snarling people have snarling dogs, dangerous people have dangerous ones. \
+by Arthur Conan Doyle
