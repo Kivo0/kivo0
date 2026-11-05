@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-A dog reflects the family life. Whoever saw a frisky dog in a gloomy family, or a sad dog in a happy one? Snarling people have snarling dogs, dangerous people have dangerous ones. \
-by Arthur Conan Doyle
+Don’t believe what your eyes are telling you. All they show is limitation. Look with your understanding. Find out what you already know and you will see the way to fly. \
+by Richard Bach
