@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Don’t believe what your eyes are telling you. All they show is limitation. Look with your understanding. Find out what you already know and you will see the way to fly. \
-by Richard Bach
+Life's too short to pretend and play games like that. I want to spend my time hanging out with people who make me feel good about myself. People who make me happy. \
+by Gena Showalter
