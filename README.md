@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Life's too short to pretend and play games like that. I want to spend my time hanging out with people who make me feel good about myself. People who make me happy. \
-by Gena Showalter
+I play the notes as they are written, but it is God who makes the music. \
+by Johann Sebastian Bach
