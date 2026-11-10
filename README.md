@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-He who has overcome his fears will truly be free. \
-by Aristotle
+In times of war, the law falls silent. \
+by Marcus Tullius Cicero
