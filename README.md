@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-In times of war, the law falls silent. \
-by Marcus Tullius Cicero
+Let us sacrifice our today so that our children can have a better tomorrow. \
+by A. P. J. Abdul Kalam
