@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-Wisely and slow; they stumble that run fast. \
-by William Shakespeare
+He who knows all the answers has not been asked all the questions. \
+by Confucius
