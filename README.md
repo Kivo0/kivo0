@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-He who knows all the answers has not been asked all the questions. \
-by Confucius
+Peace is not something you wish for; It's something you make, Something you do, Something you are, And something you give away \
+by John Lennon
