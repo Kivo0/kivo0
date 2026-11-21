@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-The Socialists ask what is our program? Our program is to smash the heads of the Socialists. \
-by Benito Mussolini
+There is a God and I'm going to serve him for the rest of my life. \
+by Rachel Scott
