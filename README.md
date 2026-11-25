@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-There’s an unspoken law that you should never start to cry if you have too many reasons to do so. \
-by Herta Müller
+I'm not performing miracles, I'm using up and wasting a lot of paint… \
+by Claude Monet
