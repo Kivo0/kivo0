@@ -2,5 +2,5 @@
 ``` diff \
 -!A NeW inspirational quote every day!- 
 ```
-I'm not performing miracles, I'm using up and wasting a lot of paint… \
-by Claude Monet
+I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down. \
+by Abraham Lincoln
